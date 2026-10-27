@@ -1,7 +1,7 @@
 /* CCAO-F ACADEMY 오프라인 캐시
    한 번 접속하면 사이트 전체를 브라우저에 저장해, 이후 인터넷이 없어도 같은 주소로 열림.
    내용을 갱신해 배포할 때는 tools/version.json 의 cache 숫자를 1 올린 뒤 다시 빌드할 것. */
-const CACHE = "ccao-v1";
+const CACHE = "ccao-v2";
 const ASSETS = [
   "./",
   "./index.html",
